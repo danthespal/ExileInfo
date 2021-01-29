@@ -83,7 +83,6 @@ We accept most PR and ideas. If you want a feature included, create an issue and
 We are also available on [Discord](https://discord.gg/NpGaMqC).
 
 ## Thanks
-- [Contributors](https://github.com/domialex/Sidekick/graphs/contributors)
 - [POE-TradeMacro](https://github.com/PoE-TradeMacro/POE-TradeMacro) - Original idea
 - [WindowsHook](https://github.com/topstarai/WindowsHook) - Keyboard and mouse hooks
 - [AdonisUI](https://benruehl.github.io/adonis-ui/) - UI
