@@ -7,7 +7,7 @@ If you used [POE-TradeMacro](https://github.com/PoE-TradeMacro/POE-TradeMacro), 
 ExileInfo should be able to price check almost every item, the idea is to eventually be able to modify your search on-the-fly and configure which attributes are selected by default depending on the item type.
 
 ## Installation
-1. [Download Sidekick](https://github.com/danthespal/ExileInfo/releases/latest/download/ExileInfo.zip)
+1. [Download ExileInfo](https://github.com/danthespal/ExileInfo/releases/latest/download/ExileInfo.zip)
 2. Extract somewhere and run ExileInfo.exe
 
 ## Usage
